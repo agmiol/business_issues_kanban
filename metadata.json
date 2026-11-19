@@ -1,0 +1,8 @@
+{
+  "name": "PULS — Дошка проблем бізнесу",
+  "description": "Демонстраційний дашборд та канбан-дошка системних проблем бізнесу PULS",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
